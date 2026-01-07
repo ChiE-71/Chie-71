@@ -16,7 +16,7 @@ I’m exploring frontend development, building small projects, and experimenting
 
 ### Fun Fact
 
-Even as a chemist, I find coding to be a new kind of chemistry – joining building block (code, ~atoms~) to create something that works beautifully.
+Even as a chemist, I find coding soothing, learning rules and building block (code, ~atoms~) to create something that works beautifully.
 
 
 <!--
